@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amanpreet-Ramgharia
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Spark, Hadoop, NoSQL, Blockchain
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning KQL, Microsoft Sentinal, Azure AD, Cyber Triage
 - 💞️ I’m looking to collaborate on all above
 - 📫 How to reach me phone: 07717109292, email: singhamanpreet751@gmail.com 
 
