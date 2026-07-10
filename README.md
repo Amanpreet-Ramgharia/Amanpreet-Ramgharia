@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Amanpreet-Ramgharia
+Hi, I’m @Amanpreet-Ramgharia
